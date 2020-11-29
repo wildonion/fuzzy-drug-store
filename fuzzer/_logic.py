@@ -28,6 +28,9 @@ class Rule:
 	def __init__(self):
 		pass
 
+	def view(self):
+		pass
+
 
 class ControlSystemSimulation:
 	def __init__(self):
