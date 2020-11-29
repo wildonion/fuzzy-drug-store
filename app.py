@@ -11,6 +11,8 @@ from fuzzer import Antecedent, ControlSystem, Rule, ControlSystemSimulation
 
 '''
 
+References : https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
+
 TODO : specify the number of inputs and outputs
 TODO : fetch from db
 
