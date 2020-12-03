@@ -6,7 +6,7 @@ import sqlite3
 
 class init:
 	def __init__(self):
-		self.conn = sqlite3.connect('drugstore.db')
+		self.conn = sqlite3.connect('db/drugstore.db')
 		self.cursor = self.conn.cursor()
 
 	def query(self, q, v):
