@@ -1,7 +1,7 @@
 
 
 
-
+# TODO : complete README
 
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
