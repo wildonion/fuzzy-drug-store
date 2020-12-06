@@ -1,5 +1,12 @@
+
+## Setup
+
+```console
+pip install requirements.txt
+```
+
 ## Usage
 
 ```console
-python app.py
+cd fuzzy-drugstore && jupyter notebook
 ```
