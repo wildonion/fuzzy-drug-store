@@ -10,3 +10,5 @@ pip install requirements.txt
 ```console
 cd fuzzy-drugstore && jupyter notebook
 ```
+
+[code + 3D plots]()
