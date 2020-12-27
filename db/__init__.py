@@ -4,6 +4,9 @@
 import sqlite3
 
 
+__all__ = ['init']
+
+
 class init:
 	def __init__(self):
 		self.conn = sqlite3.connect('db/drugstore.db')
