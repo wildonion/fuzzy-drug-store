@@ -13,4 +13,4 @@ cd fuzzy-drugstore && jupyter notebook
 
 ## Code
 
-View on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/wildonion/fuzzy-drugstore/blob/450f5bac7e124ad86335dee53c30b105ccbc5966/app.ipynb) 
+View on [Jupyter nbviewer](https://nbviewer.jupyter.org/github/wildonion/fuzzy-drugstore/blob/dc2174c23cf35aa10f01a5a077e52573e9ff53e9/app.ipynb) 
